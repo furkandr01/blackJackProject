@@ -1,6 +1,6 @@
 body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', Arial, sans-serif;
-    background-image: url("images/table.png");
+    background-image: url("images/table1.jpg");
     background-size: cover;
     font-weight: bold;
     color: white;
@@ -8,7 +8,8 @@ body {
 }
 
 h1 {
-    color: goldenrod;
+    color: white;
+    background-color: goldenrod;
 }
 
 #message-el {
@@ -16,7 +17,7 @@ h1 {
 }
 
 button {
-    color: #016f32;
+    color: white;
     width: 150px;
     background: goldenrod;
     padding-top: 5px;
